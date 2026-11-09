@@ -1,0 +1,6 @@
+{
+  "name": "PitWall IQ - Formula 1 Race Strategy & Analytics",
+  "description": "Interactive Formula 1 analytics dashboard and strategy simulator built for race strategists and fans. Analyze pit windows, grid-to-finish conversions, overtaking difficulty, and reliability factors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
